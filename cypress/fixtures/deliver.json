@@ -1,0 +1,51 @@
+{
+	"signup": {
+		"name": "Debora Danielle",
+  				"cpf": "00000014141",
+  				"email": "debora@gmail.com",
+  				"whatsapp": "11988775566",
+  				"address": {
+  					"postalcode": "38411889",
+  					"street": "Rua SU1",
+  					"number": "100",
+  					"details": "Apt 303",
+  					"district": "Gávea",
+  					"city_state": "Uberlândia/MG"
+  				},
+  				"delivery_method": "Moto",
+  				"cnh": "cnh-digital.jpg"
+	},
+	"cpf_inv": {
+		"name": "Ana Danielle",
+  				"cpf": "x000000141AA",
+  				"email": "ana@gmail.com",
+  				"whatsapp": "11988775566",
+  				"address": {
+  					"postalcode": "38411889",
+  					"street": "Rua SU1",
+  					"number": "100",
+  					"details": "Apt 303",
+  					"district": "Gávea",
+  					"city_state": "Uberlândia/MG"
+  				},
+  				"delivery_method": "Moto",
+  				"cnh": "cnh-digital.jpg"
+	},
+	"email_inv": {
+		"name": "Debora Danielle",
+  				"cpf": "00000014141",
+  				"email": "debora.com.br",
+  				"whatsapp": "11988775566",
+  				"address": {
+  					"postalcode": "38411889",
+  					"street": "Rua SU1",
+  					"number": "100",
+  					"details": "Apt 303",
+  					"district": "Gávea",
+  					"city_state": "Uberlândia/MG"
+  				},
+  				"delivery_method": "Moto",
+  				"cnh": "cnh-digital.jpg"
+	}
+
+}
